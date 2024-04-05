@@ -9,7 +9,7 @@
 - Prior to this, I've been working in Finance, Accounts, Baking, a limited run as a butcher, and an Army Reservist for just short of a decade.
 
 - 🌱 I’m currently working as an Advanced Operations Engineer for one of the major Top 5 Cloud Consultancy in the UK, working mainly in Azure
-- I am a certified Azure Administrator and an Azure Solutions Architect 
+- I am a certified Azure Administrator, an Azure Solutions Architect, and an Azure Security Engineer Associate, as well as an AWS Solutions Architect.
 - I am currently expanding my knowledge of Terraform and getting used to using Github more
 - 
 - 📫 How to reach me?
