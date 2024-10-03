@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theangrytech-git. I'm a 40 year old social handgrenade with three children, and a fiancee.
+- 👋 Hi, I’m @theangrytech-git. I'm a 40 year old social handgrenade with three children, and a newly-wed wife.
 
 - 👀 I’ve been working in IT since 2006, but have been involved in it long before I took it up as a job!
 - I have worked as:
@@ -15,12 +15,17 @@
 - 📫 How to reach me?
 - Either on here
 - Or by emailing me at theangrytech@outlook.com
+- Or on Twitter/X - @theangrytech-x
+- Or on Threads - @theangrytech
 
 - 😄 What do I have in mind for the future?
 - Once I've finished my AZ-104 Training Environment, I plan to:
-- Create an Azure Fundamental Training
-- Create some course content and slap it onto Youtube
+- Create an Azure Fundamental Training package
+- Create some AZ-104, AZ-305 course content and labs
+- Look at doing the same for AWS
+- Create some course content and slap it onto Youtube (https://www.youtube.com/@TheAngryTech-YT)
 - Look at creating some Projects to host on here and a mini-course on how to create them
-- 
+- Look into doing some deep-dives on technologies
+ 
 - ⚡ Fun fact:
 - There are more planes in the sea than there are boats in the air
