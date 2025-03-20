@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theangrytech-git. I'm a 40 year old social handgrenade with three children, and a newly-wed wife.
+- 👋 Hi, I’m @theangrytech-git. I'm a 41 year old social handgrenade with three children, and a newly-wed but long-suffering wife.
 
 - 👀 I’ve been working in IT since 2006, but have been involved in it long before I took it up as a job!
 - I have worked as:
