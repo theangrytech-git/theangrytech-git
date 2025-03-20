@@ -5,7 +5,8 @@
 - 1st, 2nd and 3rd Line Desktop Support Technician
 - Server Engineer (Working on Win 2003 to 2019)
 - Virtulisation (Re-designing virtual estate from a 'here's everything onto a single VHD' to 'Here's an OS disk, and a data disk....right-sized'
-- And during the pandemic of 2020, I started to get more involved with Autopilot/Intune
+- Disaster Recovery Planning - taking one Orgs Recovery Point from on average 336 hours down to 1 hour 
+- And during the pandemic of 2020, I started to get more involved with Autopilot/Intune, designing and implementing it within the UK for end-users
 - Prior to this, I've been working in Finance, Accounts, Baking, a limited run as a butcher, and an Army Reservist for just short of a decade.
 
 - 🌱 I’m currently working as an Advanced Operations Engineer for one of the major Top 5 Cloud Consultancy in the UK, working mainly in Azure
@@ -22,6 +23,7 @@
 - Once I've finished my AZ-104 Training Environment, I plan to:
 - Create an Azure Fundamental Training package
 - Create some AZ-104, AZ-305 course content and labs
+- Create a Chaos Studio Lab for DR planning using Real World examples, in Terraform
 - Look at doing the same for AWS
 - Create some course content and slap it onto Youtube (https://www.youtube.com/@TheAngryTech-YT)
 - Look at creating some Projects to host on here and a mini-course on how to create them
